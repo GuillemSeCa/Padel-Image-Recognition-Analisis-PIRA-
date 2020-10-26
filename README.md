@@ -22,6 +22,13 @@ When it's done we will process it to make it into images:
 $ ffmpeg -i <input.mp4> -vf fps=<numFps> out%d.png
 ```
 
+# Tensorflow install
+To install tensorflow we will need to put these 2 commands in the terminal:
+```sh
+$ sudo apt install python3-dev python3-pip python3-venv
+$ pip3 install --user --upgrade tensorflow 
+```
+
 
 
 
