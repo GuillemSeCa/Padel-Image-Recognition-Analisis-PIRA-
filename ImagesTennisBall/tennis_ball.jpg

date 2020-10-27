@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7 ie"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7 ie"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8 ie"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9 ie8 ie"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 9]><html class="ie9 ie"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta property="og:title" content="Parks &amp; Recreation" />
+<meta property="og:description" content="Welcome to Recreation Oak Bay. The Department provides many programs and services to residents of Oak Bay and neighbouring municipalities. Regardless of your age, if you are looking for a recreation p" />
+<meta property="og:image" content="http://oakbay.ca/sites/all/themes/oakbay/images/logo.png" />
+<meta property="og:url" content="https://www.oakbay.ca/parks-recreation" />
+<meta property="og:site_name" content="The District of Oak Bay" />
+<meta name="description" content="Welcome to Recreation Oak Bay. The Department provides many programs and services to residents of Oak Bay and neighbouring municipalities. Regardless of your age, if you are looking for a recreation program to get active in, state of the art recreation facilities or parks with scenic beauty and wonderful opportunities to play, this is the place for you! Learn More" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.oakbay.ca/parks-recreation" />
+<link rel="shortlink" href="https://www.oakbay.ca/node/235" />
+  <title>Parks & Recreation | The District of Oak Bay</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|PT+Serif:700' rel='stylesheet' type='text/css'>
+  <!--link href='https://fonts.googleapis.com/css?family=Kreon:regular' rel='stylesheet' type='text/css'-->
+  <link rel="shortcut icon" href="/sites/all/themes/oakbay/images/favicon.ico" />
+  <link rel="apple-touch-icon" href="/sites/all/themes/oakbay/images/apple-touch-icon.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="google-translate-customization" content="4ddf5588a279e6b3-6955a020948d250c-gaefb604b3d02a6fc-9" />
+      <meta name="apple-itunes-app" content="app-id=956657725">
+    <meta name="google-play-app" content="app-id=com.upanup.recreationoakbay">
+    <link rel="stylesheet" href="/sites/all/themes/oakbay/css/jquery.smartbanner.css" type="text/css" media="screen">
+    
+<link type="text/css" rel="stylesheet" href="https://www.oakbay.ca/sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oakbay.ca/sites/default/files/css/css_Ss9sGKMUt2HlzMPLnY709cM_95QuUedFvkSVkT6mA-o.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oakbay.ca/sites/default/files/css/css_GXE08YzYhJHZMSdrmgBKMXcX7gTomHrqHKI5CCnZFV0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.oakbay.ca/sites/default/files/css/css_OcQ8L4LvD2rQqeQXVRHYqcY9aSKhGEBOxKlMi1bPKUw.css" media="all" />
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-235 node-type-section-overview-page section-parks-recreation role-anonymous-user" >
+	<!--[if lt IE 8]><div style='clear: both; height: 112px; padding:0; position: relative;'><a href="http://www.theie7countdown.com/ie-users-info"><img src="http://www.theie7countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a></div><![endif]-->
+      <p id="skip-link">
+      <a href="#main-menu" class="element-invisible element-focusable">Jump to navigation</a>
+    </p>
+      <!-- PAGE BACKGROUND-->
+<div class="full page">
+		<a name="top"></a>
+		<!-- TOP BAR -->
+		<div class="header__topbar">
+			<!-- TOOLS -->
+			<div class="center site clearfix">
+				<div class="col-1-4 triggers search">
+					<div class="site-search">
+						<article class="box">
+							  <div class="region region-parks-recreation-search">
+    <div id="block-custom-search-blocks-2" class="block block-custom-search-blocks first last odd">
+
+      
+  <form class="search-form" action="/parks-recreation" method="post" id="custom-search-blocks-form-2" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-custom-search-vocabulary-2">
+  <label class="element-invisible" for="edit-custom-search-vocabulary-2">Section </label>
+ <select class="custom-search-selector custom-search-vocabulary form-select" id="edit-custom-search-vocabulary-2" name="custom_search_vocabulary_2"><option value="c-all" selected="selected">-Any-</option><option value="c-1"> Our Community</option><option value="c-3"> Explore Oak Bay</option><option value="c-4"> Parks &amp; Recreation</option><option value="c-5"> Municipal Services</option><option value="c-6"> Municipal Hall</option><option value="c-256"> Public Notice</option><option value="c-7"> Public Safety</option></select>
+</div>
+<div class="form-item form-type-textfield form-item-custom-search-blocks-form-2">
+  <label class="element-invisible" for="edit-custom-search-blocks-form-2--2">Search Parks &amp; Rec </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="" type="text" id="edit-custom-search-blocks-form-2--2" name="custom_search_blocks_form_2" value="" size="15" maxlength="128" />
+</div>
+<div class="form-item form-type-select form-item-custom-search-types">
+  <label class="element-invisible" for="edit-custom-search-types">Search for </label>
+ <select class="custom-search-selector custom-search-types form-select" id="edit-custom-search-types" name="custom_search_types"><option value="c-all" selected="selected">-Any-</option><option value="c-page">Page</option><option value="c-page_with_view">Page with View</option><option value="c-park">Park</option><option value="c-personal_trainer_bio">Personal Trainer Bio</option><option value="c-recreation_active_living_guide">Recreation Active Living Guide</option><option value="c-recreation_centre">Recreation Centre</option><option value="c-recreation_event">Recreation Event</option><option value="c-recreation_news">Recreation News</option><option value="c-recreation_photo_gallery_page">Recreation Photo Gallery Page</option><option value="c-recreation_program">Recreation Program</option><option value="c-recreation_spotlight">Recreation Spotlight</option><option value="c-webform">Webform</option></select>
+</div>
+<input type="hidden" name="delta" value="2" />
+<input type="hidden" name="form_build_id" value="form-t8w3eEBTT_EeNDxdWTexUPFlQNvDu_Hq4zHHhMGZGjo" />
+<input type="hidden" name="form_id" value="custom_search_blocks_form_2" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div></div></form>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+						</article>
+					</div>
+				</div>
+				<div class="col-1-2 header-tools m-hide">
+					<div class="registration-link"><a href="https://oakbayrec.perfectmind.com/Menu/MemberRegistration/MemberSignIn?returnUrl=%2F"><span>Registration</span> Login</a></div>
+
+					<div class="translate">
+						<a href="#" id="googleTranslate">
+							<span class="text">Google Translate</span>
+						</a>
+					</div>
+
+					<div class="social">
+						<ul>
+							<li><a href="http://www.facebook.com/RecOakBay"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+							<li><a href="http://twitter.com/recoakbay"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+				</div><!-- header-tools -->				
+			</div>					
+		</div><!-- /.header__topbar -->	
+		<!-- PAGE CONTAINER -->			
+		<div class="center site">
+			<div class="grid grid-pad">
+				<!-- HEADER -->
+				<header id="header" role="banner">
+
+					<!-- LOGO -->
+					<div class="col-1-1 header__main">
+						<div class="col-1-4 logo">
+							<h1><a rel="home" title="Recreation Oak Bay" href="/parks-recreation"><img src="/sites/all/themes/oakbay/images/parks-rec/logo.png" alt="Recreation Oak Bay"></a></h1>
+						</div>
+						
+						<!-- PARKS AND REC MAIN NAV -->
+						<div class="col-3-4 main-nav">
+							<div id="m-menu"><span class="m-trigger"><i class="fa fa-bars" aria-hidden="true"></i></span></div>
+							  <div class="region region-parks-recreation-main-nav">
+    <div id="block-menu-block-5" class="block block-menu-block first last odd" role="navigation">
+
+      
+  <div class="menu-block-wrapper menu-block-5 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-922"><a href="/parks-recreation/programs-registration" class="menu__link">Programs &amp; Registration</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-2295"><a href="/parks-recreation/programs-registration/find-program" class="menu__link">Find a Program</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5558"><a href="/parks-recreation/programs-registration/adult-programs" class="menu__link">Adult Programs</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5560"><a href="/parks-recreation/programs-registration/adult-programs/monterey-recreation-centre" class="menu__link">Monterey Recreation Centre</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5561"><a href="/parks-recreation/programs-registration/aquatics" class="menu__link">Aquatics</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5562"><a href="/parks-recreation/programs-registration/private-swim-lesson-request" class="menu__link">Private Swim Lesson Request</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5563"><a href="/parks-recreation/programs-registration/birthday-parties" class="menu__link">Birthday Parties</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6611"><a href="/parks-recreation/programs-registration/oak-bay-birthday-party-request-form" class="menu__link">Oak Bay Birthday Party Request Form</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5564"><a href="/parks-recreation/programs-registration/camps" class="menu__link">Camps</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5569"><a href="/parks-recreation/programs-registration/childcare" class="menu__link">Childcare</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5570"><a href="/parks-recreation/programs-registration/after-school-care" class="menu__link">Before &amp; After School Care</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-6615"><a href="/parks-recreation/programs-registration/after-school-care-golf-lessons-waiver" class="menu__link">After School Care Golf Lessons Waiver</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6631"><a href="/parks-recreation/programs-registration/after-school-care-skating-lessons-waiver" class="menu__link">After School Care Skating Lessons Waiver</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-6806"><a href="/parks-recreation/programs-registration/after-school-care-swimming-lessons-waiver" class="menu__link">After School Care Swimming Lessons Waiver</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5571"><a href="/parks-recreation/programs-registration/licensed-preschool" class="menu__link">Licensed Preschool</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5572"><a href="/parks-recreation/programs-registration/paddington-station-licensed-daycare" class="menu__link">Licensed Daycare</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5860"><a href="/parks-recreation/programs-registration/childminding" class="menu__link">Childminding</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5565"><a href="/parks-recreation/programs-registration/childrens-programs" class="menu__link">Children&#039;s Programs</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5566"><a href="/parks-recreation/programs-registration/fitness-and-wellness" class="menu__link">Fitness and Wellness</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5567"><a href="/parks-recreation/programs-registration/personal-training" class="menu__link">Personal Training</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5568"><a href="/parks-recreation/programs-registration/golf" class="menu__link">Golf</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5573"><a href="/parks-recreation/programs-registration/racquet-sports" class="menu__link">Racquet Sports</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5574"><a href="/parks-recreation/programs-registration/skating-hockey" class="menu__link">Skating &amp; Hockey</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5575"><a href="/parks-recreation/programs-registration/hockey-league-information" class="menu__link">Hockey League Information</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5576"><a href="/parks-recreation/programs-registration/novice-hockey-league-information" class="menu__link">Novice Hockey League Information</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5578"><a href="/parks-recreation/programs-registration/softball-league" class="menu__link">Softball League</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5577"><a href="/parks-recreation/programs-registration/youth-programs" class="menu__link">Youth Programs</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-924"><a href="/parks-recreation/programs-registration/registration" class="menu__link">Registration</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5923"><a href="/parks-recreation/programs-registration/active-living-guide" title="" class="menu__link">Active Living Guide</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-7573"><a href="/parks-recreation/programs-registration/active-living-guide/fall-active-living-guide" class="menu__link">Fall Active Living Guide</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-7162"><a href="/parks-recreation/programs-registration/active-living-guide/summer-camps-registration" class="menu__link">Summer Camps Registration</a></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-955"><a href="/parks-recreation/programs-registration/access-inclusion" class="menu__link">Access &amp; Inclusion</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-930"><a href="/parks-recreation/rates-schedules" class="menu__link">Rates &amp; Schedules</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-931"><a href="/parks-recreation/rates-schedules/rates-passes" class="menu__link">Rates &amp; Passes</a><ul class="menu"><li class="menu__item is-expanded first last expanded menu-mlid-958"><a href="/parks-recreation/rates-schedules/rates-passes/financial-assistance" class="menu__link">Financial Assistance</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-959"><a href="/parks-recreation/rates-schedules/rates-passes/financial-assistance/life" class="menu__link">LIFE</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-961"><a href="/parks-recreation/drop-schedules/rates-passes/financial-assistance/jumpstart" class="menu__link">Jumpstart</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-2335"><a href="/parks-recreation/rates-schedules/schedules" class="menu__link">Schedules</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-3308"><a href="/parks-recreation/rates-schedules/schedules/aquatics" title="" class="menu__link">Aquatics</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5546"><a href="/parks-recreation/programs-registration/aquafit" class="menu__link">Aquafit</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5547"><a href="/parks-recreation/programs-registration/swimming" class="menu__link">Swimming</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3309"><a href="/parks-recreation/rates-schedules/schedules/fitness-wellness" class="menu__link">Fitness &amp; Wellness</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-5548"><a href="/parks-recreation/programs-registration/fitness-classes" class="menu__link">Fitness Classes</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5549"><a href="/parks-recreation/programs-registration/fitness-studio" class="menu__link">Fitness Studio</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-5550"><a href="/parks-recreation/programs-registration/indoor-cycling" class="menu__link">Indoor Cycling</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3305"><a href="/parks-recreation/rates-schedules/schedules/kindergym" class="menu__link">Kindergym</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5551"><a href="/parks-recreation/programs-registration/kindergym" class="menu__link">Kindergym</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-3304"><a href="/parks-recreation/rates-schedules/schedules/skating-hockey" class="menu__link">Skating &amp; Hockey</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5545"><a href="/parks-recreation/programs-registration/skating-hockey-drop" class="menu__link">Skating &amp; Hockey Drop-In</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-3306"><a href="/parks-recreation/rates-schedules/schedules/sports-drop" title="At this time, Sports Drop-ins will not be available for Fall 2020 with Oak Bay Parks, Recreation and Culture. Please check back in the winter for updates. If you have any questions, please contact reception at Henderson Recreation Centre at 250-370-7200." class="menu__link">Sports Drop-in</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5552"><a href="/parks-recreation/programs-registration/sports-drop" class="menu__link">Sports Drop-in</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-2059"><a href="/parks-recreation/events/calendar" title="" class="menu__link">Event Calendar</a><ul class="menu"><li class="menu__item is-expanded first last expanded menu-mlid-920"><a href="/parks-recreation/events/calendar/news" class="menu__link">News</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-2143"><a href="/parks-recreation/news/spotlight" title="" class="menu__link">Spotlight</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2331"><a href="/parks-recreation/news/subscribe" class="menu__link">Subscribe</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-934"><a href="/parks-recreation/facilities-rentals" class="menu__link">Facilities</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-936"><a href="/parks-recreation/facilities-rentals/recreation-centres" class="menu__link">Recreation Centres</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-1027"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre" class="menu__link">Oak Bay Recreation Centre</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1032"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/arena" class="menu__link">Arena</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1033"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/discovery-room" class="menu__link">Discovery Room</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1035"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/fitness-studio" class="menu__link">Fitness Studio</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1036"><a href="/parks-recreation/facilities-parks/recreation-centres/oak-bay-recreation-centre/indoor-sport-field" class="menu__link">Indoor Sport Field</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2231"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/photo-gallery" class="menu__link">Photo Gallery</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1037"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/pools" class="menu__link">Pools</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1038"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/sauna-steamroom-hot" class="menu__link">Sauna, Steamroom &amp; Hot Tub</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1039"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/sports-view-lounge" class="menu__link">Sports View Lounge</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1041"><a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre/tennis-courts" class="menu__link">Tennis Courts</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1028"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre" class="menu__link">Henderson Recreation Centre</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1045"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/community-park" class="menu__link">Community Park &amp; Chip Trail</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1046"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/fitness-studio" class="menu__link">Fitness Studio</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1047"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/golf-course" class="menu__link">Golf Course &amp; Putting Area</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1048"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/gymnasium" class="menu__link">Gymnasium</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2232"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/photo-gallery" class="menu__link">Photo Gallery</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1050"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/quail-room" class="menu__link">Quail Room</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1051"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/sports-fields" class="menu__link">Sports Fields</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1052"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/tennis-courts-outdoor" class="menu__link">Tennis Courts – Outdoor</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1049"><a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre/nook" class="menu__link">The Nook</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1029"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre" class="menu__link">Monterey Recreation Centre</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1053"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/billiards-room" class="menu__link">Billiards Room</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1055"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/classrooms" class="menu__link">Classrooms</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1057"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/fern-caf%C3%A9" class="menu__link">Fern Café</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2303"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/oak-leaves" class="menu__link">Oak Leaves Newsletter</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5861"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/volunteering" class="menu__link">Volunteering Opportunities</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2233"><a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre/photo-gallery" class="menu__link">Photo Gallery</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1031"><a href="/parks-recreation/facilities-rentals/recreation-centres/carnarvon-centre" class="menu__link">Carnarvon Centre</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-1063"><a href="/parks-recreation/facilities-rentals/recreation-centres/carnarvon-centre/tennis-courts-%E2%80%93-outdoor" class="menu__link">Tennis Courts – Outdoor</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-1030"><a href="/parks-recreation/facilities-rentals/recreation-centres/windsor-pavilion" class="menu__link">Windsor Pavilion</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1065"><a href="/parks-recreation/facilities-rentals/recreation-centres/windsor-pavilion/meeting-rooms" class="menu__link">Meeting Rooms</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1066"><a href="/parks-recreation/facilities-rentals/recreation-centres/windsor-pavilion/rotary-hall" class="menu__link">Rotary Hall</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1067"><a href="/parks-recreation/facilities-parks/recreation-centres/windsor-pavilion/sports-fields" class="menu__link">Sports Fields</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-1068"><a href="/parks-recreation/facilities-rentals/recreation-centres/windsor-pavilion/tennis-courts-%E2%80%93-outdoor" class="menu__link">Tennis Courts – Outdoor</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-4970"><a href="/parks-recreation/facilities-rentals/recreation-centres/neighbourhood-learning-centre" class="menu__link">Neighbourhood Learning Centre</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-4972"><a href="/parks-recreation/facilities-rentals/recreation-centres/neighbourhood-learning-centre/after-school" class="menu__link">Before &amp; After School Care</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4971"><a href="/parks-recreation/facilities-rentals/recreation-centres/neighbourhood-learning-centre/day-care" class="menu__link">Day Care</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-4973"><a href="/parks-recreation/facilities-rentals/recreation-centres/neighbourhood-learning-centre/youth-centre" class="menu__link">Youth Centre</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-950"><a href="/parks-recreation/facilities-rentals/facility-park-rentals" class="menu__link">Facility &amp; Park Rentals</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-951"><a href="/parks-recreation/facilities-rentals/food-services" class="menu__link">Food Services</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-952"><a href="/parks-recreation/facilities-rentals/food-services/catering" class="menu__link">Catering</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-956"><a href="/parks-recreation/facilities-rentals/accessibility" class="menu__link">Accessibility</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-7407"><a href="/parks-recreation/programs-registration/facility-re-opening-announcement" class="menu__link">Facility Re-Opening Announcement</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-943"><a href="/parks-recreation/parks-playgrounds" class="menu__link">Parks</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-1254"><a href="/parks-recreation/parks-playgrounds/parks-listing" title="" class="menu__link">Parks Listing</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2716"><a href="/parks-recreation/parks-playgrounds/park-field-bookings" class="menu__link">Park &amp; Field Bookings</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-944"><a href="/parks-recreation/parks-playgrounds/field-report" class="menu__link">Field Report</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6229"><a href="/parks-recreation/parks-playgrounds/carnarvon-park-master-plan" class="menu__link">Carnarvon Park Master Plan</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-949"><a href="/parks-recreation/parks-playgrounds/walking-trails" class="menu__link">Walking Trails</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2718"><a href="/parks-recreation/parks-playgrounds/dogs-parks" class="menu__link">Dogs in Parks</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-2726"><a href="/parks-recreation/parks-playgrounds/trees" class="menu__link">Trees</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-948"><a href="/parks-recreation/parks-playgrounds/trees/tree-work-application" class="menu__link">Tree Work Application</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-945"><a href="/parks-recreation/parks-playgrounds/trees/tree-donation-program" class="menu__link">Tree Donation Program</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-2724"><a href="/parks-recreation/parks-playgrounds/allotment-gardens" class="menu__link">Allotment Gardens</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5579"><a href="/parks-recreation/parks-playgrounds/friends-uplands-park" class="menu__link">Friends of Uplands Park</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2720"><a href="/parks-recreation/parks-playgrounds/parks-vision-committee" class="menu__link">Parks Vision Committee</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-947"><a href="/parks-recreation/parks-playgrounds/pesticide-regulation-bylaw" class="menu__link">Pesticide Regulation Bylaw</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2722"><a href="/parks-recreation/parks-playgrounds/weeds-invasive-species" class="menu__link">Weeds &amp; Invasive Species</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5235"><a href="/parks-recreation/parks-playgrounds/urban-forest-management-plan" class="menu__link">Urban Forest Management Plan</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2723"><a href="/parks-recreation/parks-playgrounds/outdoor-weddings" class="menu__link">Outdoor Weddings</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-5924"><a href="/parks-recreation/arts-culture" class="menu__link">Arts &amp; Culture</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-5233"><a href="/parks-recreation/arts-culture/artsalive" class="menu__link">ArtsAlive</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-5855"><a href="/parks-recreation/arts-culture/artsalive/call-artists-application" class="menu__link">Call For Artists Application</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-5236"><a href="/parks-recreation/arts-culture/arts-culture-days" class="menu__link">Arts &amp; Culture Days</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-5396"><a href="/parks-recreation/arts-culture/acorn-arts-award" class="menu__link">Acorn Arts Award</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-6217"><a href="/parks-recreation/arts-culture/acorn-arts-award/acorn-arts-award-nomination-form" class="menu__link">Acorn Arts Award Nomination Form</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-828"><a href="/parks-recreation/arts-culture/visual-arts" class="menu__link">Visual Arts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-830"><a href="/parks-recreation/arts-culture/performance-arts" class="menu__link">Performance Arts</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-4824"><a href="/parks-recreation/arts-culture/mayors-arts-legacy-fund" class="menu__link">Mayors&#039; Arts Legacy Fund</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-5557"><a href="/parks-recreation/arts-culture/oak-bay-artists-studio-tour" class="menu__link">Oak Bay Artists&#039; Studio Tour</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6610"><a href="/parks-recreation/arts-culture/bowker-creek-mural-project" class="menu__link">Bowker Creek Mural Project</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6609"><a href="/parks-recreation/arts-culture/public-art-advisory-committee" class="menu__link">Public Art Advisory Committee</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-827"><a href="/parks-recreation/arts-culture/library" class="menu__link">Library</a></li>
+</ul></li>
+<li class="menu__item is-expanded last expanded menu-mlid-915"><a href="/parks-recreation/contact-us" class="menu__link">Contact Us</a><ul class="menu"><li class="menu__item is-expanded first expanded menu-mlid-917"><a href="/parks-recreation/contact-us/staff-directory" class="menu__link">Staff Directory</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2312"><a href="/parks-recreation/contact-us/staff-directory/personal-trainers" class="menu__link">Personal Trainers</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded menu-mlid-954"><a href="/parks-recreation/contact-us/employment" class="menu__link">Employment</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2443"><a href="/parks-recreation/contact-us/employment/course-proposal-form" class="menu__link">Course Proposal Form</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf menu-mlid-2225"><a href="/parks-recreation/contact-us/about-us" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-962"><a href="/parks-recreation/contact-us/planned-giving" class="menu__link">Planned Giving</a></li>
+<li class="menu__item is-expanded expanded menu-mlid-918"><a href="/parks-recreation/contact-us/community" class="menu__link">Community</a><ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-964"><a href="/parks-recreation/contact-us/community/community-groups" class="menu__link">Community Groups</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-6213"><a href="/parks-recreation/contact-us/community/joint-shared-community-programs" class="menu__link">Joint (Shared) Community Programs</a></li>
+<li class="menu__item is-expanded last expanded menu-mlid-965"><a href="/parks-recreation/contact-us/community/wall-fame" class="menu__link">Wall of Fame</a><ul class="menu"><li class="menu__item is-leaf first last leaf menu-mlid-2727"><a href="/parks-recreation/contact-us/community/wall-fame/wall-fame-inductees" class="menu__link">Wall of Fame Inductees</a></li>
+</ul></li>
+</ul></li>
+<li class="menu__item is-leaf last leaf menu-mlid-963"><a href="/parks-recreation/contact-us/feedbacksurvey" class="menu__link">Feedback/Survey</a></li>
+</ul></li>
+</ul></div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+						</div>
+					</div><!-- /.header__main -->
+					
+				</header>
+
+				<!-- MAIN -->
+				<div id="main" class="full">
+
+									<div class="col-1-1 banner no-right-pad">
+						<article class="box">
+							<div id="pr-rotating">
+								  <div class="region region-parks-recreation-home-banner">
+    <div id="block-views-recreation-home-banners-block" class="block block-views first last odd">
+
+      
+  <div class="view view-recreation-home-banners view-id-recreation_home_banners view-display-id-block view-dom-id-1c52561638ae7c0b21a1c519921f8fce">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <div class="col-1-2 banner__text">
+<h2>Sports View Lounge is Open with Fall Specials...</h2>
+<div class="banner__desc">Join us in the Lounge from 11:00am-2:00pm and Receive 20% off Entreés.
+Offer lasts until NOVEMBER 30, 2020. 
+20% off purchase of an entrée only.
+See the menu for items which apply, beverages are not included.  
+Lounge Hours:</div>
+<a href="/parks-recreation/events/calendar/news/spotlight/sports-view-lounge-open-fall-specials" class="button">More Information</a>
+</div>
+<div class="col-1-2 banner__img">
+<img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation-home-banner/public/spotlight/Lounge-Fall-Specials_Slide-Image.jpg?itok=qKQH3eKW" width="727" height="370" />
+</div>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <div class="col-1-2 banner__text">
+<h2>Oak Bay Recreation Centre Pool is Open</h2>
+<div class="banner__desc">Oak Bay Parks, Recreation and Culture is pleased to announce the Pool is Open. Although not all aquatic activities will be offered in the same manner as they were prior to the Pandemic, the following pre-registered programs...</div>
+<a href="/parks-recreation/events/calendar/news/spotlight/oak-bay-recreation-centre-pool-open" class="button">More Information</a>
+</div>
+<div class="col-1-2 banner__img">
+<img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation-home-banner/public/spotlight/spotlight-pool-new1.jpg?itok=nv_lu9Ww" width="727" height="370" />
+</div>    </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+          <div class="col-1-2 banner__text">
+<h2>Fall Registration is Open</h2>
+<div class="banner__desc">Recreation Oak Bay is happy to announce registration is open. For your safety during the COVID-19 Pandemic, please consider using our online and phone in registration options.</div>
+<a href="/parks-recreation/events/calendar/news/spotlight/fall-registration-open" class="button">More Information</a>
+</div>
+<div class="col-1-2 banner__img">
+<img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation-home-banner/public/spotlight/Guide_Slide-Image_Fall3.jpg?itok=rRYvS-2y" width="727" height="370" />
+</div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+							</div>
+						</article>
+					</div>	
+					
+					<div class="col-1-1 full blocks pr-home no-right-pad">
+						<h1 class="title box-off" id="page-title">
+							<div class="print-logo">
+								<img src="/sites/all/themes/oakbay/images/parks-rec/logo-print.gif" alt="Recreation Oak Bay" />
+							</div>								
+						</h1>						
+						<article class="box">
+							<div class="quicklinks col-1-1">
+								  <div class="region region-parks-recreation-home-quicklinks">
+    <div id="block-views-6659dceaf0aae12a696d6b768085768d" class="block block-views first last odd">
+
+      
+  <div class="view view-recreation-home-quicklinks view-id-recreation_home_quicklinks view-display-id-block view-dom-id-b60ff21ac465c3cb5dbf7739663d6deb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first col-1-4 quicklink has-icon">
+      
+          <a href="/parks-recreation/programs-registration/active-living-guide/fall-active-living-guide">
+<div class="wrap">
+<div class="quicklink__content">
+<h2>Fall Guide</h2>
+<h3>2020</h3>
+</div>
+</div>
+<div class="quicklink__img"><img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation_home_quicklinks/public/recreation/homepage/quicklinks/ALG_Fall2020_BlockImage2.jpg?itok=CxQj8Cnt" width="376" height="240" alt="" /></div>
+</a>    </div>
+  <div class="views-row views-row-2 views-row-even col-1-4 quicklink ">
+      
+          <a href="https://oakbayrec.perfectmind.com/">
+<div class="wrap">
+<div class="quicklink__content">
+<h2>Register</h2>
+<h3>For a Program</h3>
+</div>
+</div>
+<div class="quicklink__img"><img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation_home_quicklinks/public/recreation/homepage/quicklinks/Quicklinks-2.png?itok=VAu6jMOr" width="376" height="240" alt="" /></div>
+</a>    </div>
+  <div class="views-row views-row-3 views-row-odd col-1-4 quicklink ">
+      
+          <a href="/parks-recreation/rates-schedules/schedules">
+<div class="wrap">
+<div class="quicklink__content">
+<h2>Daily Drop-in</h2>
+<h3>Schedule</h3>
+</div>
+</div>
+<div class="quicklink__img"><img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation_home_quicklinks/public/recreation/homepage/quicklinks/Quicklinks-3a.jpg?itok=Q13A5hkW" width="376" height="240" alt="" /></div>
+</a>    </div>
+  <div class="views-row views-row-4 views-row-even views-row-last col-1-4 quicklink ">
+      
+          <a href="/parks-recreation/rates-schedules/rates-passes">
+<div class="wrap">
+<div class="quicklink__content">
+<h2>Admission</h2>
+<h3>Rates &amp; Passes</h3>
+</div>
+</div>
+<div class="quicklink__img"><img typeof="foaf:Image" src="https://www.oakbay.ca/sites/default/files/styles/recreation_home_quicklinks/public/recreation/homepage/quicklinks/Quicklinks-4-new.jpg?itok=S2770p8N" width="376" height="240" alt="" /></div>
+</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+							</div>
+							<div class="col-1-1 homepage__blocks">
+								<div class="wrap">
+								<div class="col-1-2 homepage__locations homepage__block">
+									<div class="title-bar pr-home-news">
+										<h2><a href="/parks-recreation/facilities-rentals/recreation-centres"><i class="fa fa-map-marker" aria-hidden="true"></i> Locations</a></h2>
+									</div>									
+									  <div class="region region-parks-recreation-home-locations">
+    <div id="block-views-recreation-home-locations-block" class="block block-views first last odd">
+
+      
+  <div class="view view-recreation-home-locations view-id-recreation_home_locations view-display-id-block view-dom-id-e4fb7463d1fdb2da202507d601649f0f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/oak-bay-recreation-centre"><h3>Oak Bay Recreation Centre</h3></a>    
+          1975 Bee Street, V8R 5E6    
+          <div class="item-list"><ul><li class="first last">250-595-7946</li>
+</ul></div>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/monterey-recreation-centre"><h3>Monterey Recreation Centre</h3></a>    
+          1442 Monterey Avenue, V8S 4W1    
+          <div class="item-list"><ul><li class="first last">250-370-7300</li>
+</ul></div>    </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/henderson-recreation-centre"><h3>Henderson Recreation Centre</h3></a>    
+          2291 Cedar Hill X Road, V8P 5H9    
+          <div class="item-list"><ul><li class="first last">250-370-7200</li>
+</ul></div>    </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/carnarvon-centre"><h3>Carnarvon Centre</h3></a>    
+          2801 Henderson Road, V8R 3B5    </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/neighbourhood-learning-centre"><h3>Neighbourhood Learning Centre</h3></a>    
+          2121 Cadboro Bay Road, V8R 5G4    </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+          <a href="/parks-recreation/facilities-rentals/recreation-centres/windsor-pavilion"><h3>Windsor Pavilion</h3></a>    
+          2451 Windsor Road, V8S 5H3    
+          <div class="item-list"><ul><li class="first last">250-592-7275</li>
+</ul></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+								</div>
+								<div class="col-1-4 homepage__block">
+									<div class="title-bar pr-home-news">
+										<h2><a href="/parks-recreation/news"><i class="fa fa-newspaper-o" aria-hidden="true"></i> News</a></h2>
+									</div>
+									<div class="wrap">
+										  <div class="region region-parks-recreation-home-news">
+    <div id="block-views-news-recreation-and-parks-block" class="block block-views first last odd">
+
+      
+  <div class="view view-news-recreation-and-parks view-id-news_recreation_and_parks view-display-id-block view-dom-id-05d896f492482330c63e2d6fc03998a1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/parks-recreation/events/calendar/news/watch-out-death-cap-mushrooms-fall"><h3>Watch out for Death Cap Mushrooms this Fall!</h3></a></span>  </div>  
+  <div class="views-field views-field-field-news-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-10-08T00:00:00-07:00">October 8, 2020</span></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/parks-recreation/events/calendar/news/oak-bay-recreation-centre-pool-re-opening-august-17-2020"><h3>Oak Bay Recreation Centre Pool Re-opening August 17, 2020</h3></a></span>  </div>  
+  <div class="views-field views-field-field-news-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-08-04T00:00:00-07:00">August 4, 2020</span></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/parks-recreation/events/calendar/news/outdoor-bootcamp-starts-june-8"><h3>Outdoor Bootcamp Starts June 8!</h3></a></span>  </div>  
+  <div class="views-field views-field-field-news-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-06-01T00:00:00-07:00">June 1, 2020</span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+										<a class="all" href="/parks-recreation/news"><i class="fa fa-chevron-right" aria-hidden="true"></i> View More News</a>
+									</div>
+								</div>
+								<div class="col-1-4 homepage__block">
+									<div class="title-bar pr-home-events">
+										<h2><a href="/parks-recreation/events/calendar"><i class="fa fa-calendar" aria-hidden="true"></i> Events</a></h2>
+									</div>
+									<div class="wrap">
+										  <div class="region region-parks-recreation-home-events">
+    <div id="block-views-calendar-parks-and-rec-block-1" class="block block-views first last odd">
+
+      
+  <div class="view view-calendar-parks-and-rec view-id-calendar_parks_and_rec view-display-id-block_1 view-dom-id-583dd7c168d3b1191b63b5e6bc2bef7f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/parks-recreation/events/calendar/oak-bay-artists-exhibition-fall-2020"><h3>Oak Bay Artists&#039; Exhibition Fall 2020</h3></a></span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2020-11-21T11:00:00-08:00">November 21, 2020</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2020-11-22T16:30:00-08:00">November 22, 2020</span></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/parks-recreation/events/calendar/mraa-christmas-pop-market"><h3>MRAA Christmas Pop Up Market</h3></a></span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2020-12-05T09:00:00-08:00">December 5, 2020</span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+										<a class="all" href="/parks-recreation/events/calendar"><i class="fa fa-chevron-right" aria-hidden="true"></i> View More Events</a>
+									</div>
+								</div>
+							</div>
+							</div><!-- /.homepage__blocks -->					
+						</article>
+					</div><!-- /.pr-home -->
+				
+					
+							
+				   <!-- INSIDE PAGES-->
+				   					<div id="content" class="col-3-4" role="main">
+						<div class="box no-right-pad main-content-box">
+												
+							<h1 class="title box-off" id="page-title">
+								<span class="text">Parks &amp; Recreation</span>
+								<div class="print-logo">
+									<img src="/sites/all/themes/oakbay/images/parks-rec/logo-print.gif" alt="Recreation Oak Bay" />
+								</div>								
+							</h1>							
+														<!--?php print $breadcrumb; ?-->
+							<!--a id="main-content"></a-->
+																																			
+
+
+<article class="node-235 node node-section-overview-page view-mode-full clearfix" about="/parks-recreation" typeof="sioc:Item foaf:Document">
+
+      <header>
+                  <span property="dc:title" content="Parks &amp; Recreation" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      
+          </header>
+  
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Welcome to Recreation Oak Bay. The Department provides many programs and services to residents of Oak Bay and neighbouring municipalities. Regardless of your age, if you are looking for a recreation program to get active in, state of the art recreation facilities or parks with scenic beauty and wonderful opportunities to play, this is the place for you! <a href="/parks-recreation/about-us">Learn More</a></p>
+</div></div></div>
+  
+  
+</article><!-- /.node -->
+<!-- block__no_wrapper -->
+<!-- region__no_wrapper -->
+							<!--?php print $feed_icons; ?-->
+						</div>
+																	
+					 </div><!-- /#content -->
+				<?php// } ?>	 
+		
+				</div><!-- /#main -->
+
+			</div><!-- /.grid.grid-pad -->				
+		</div><!-- /.site.center -->				
+				
+		<!--PARKS AND REC FOOTER-->
+		<div id="parks-footer" class="full">
+			<div class="col-1-1 footer__top">
+				<div class="center site">
+					<div class="col-1-1">
+						<div class="col-4-5 links">
+							  <div class="region region-parks-recreation-footer">
+    <div id="block-block-8" class="block block-block first last odd">
+
+      
+  <ul><li><a href="/credits">Credits</a></li>
+<li><a href="/parks-recreation/sitemap">Site Map</a></li>
+<li><a href="/parks-recreation/disclaimer">Disclaimer</a></li>
+<li><a href="/parks-recreation/staff-portal">Staff Portal</a></li>
+<li><a href="/parks-recreation/helpful-links">Helpful Links</a></li>
+<li><a href="/parks-recreation/employment">Employment</a></li>
+</ul>
+</div><!-- /.block -->
+  </div><!-- /.region -->
+						</div><!-- /.links -->
+						<div class="col-1-5 back-to-top">
+							<a href="#top">To Top &nbsp;<i class="fa fa-chevron-circle-up" aria-hidden="true"></i></a>
+						</div><!-- /.back-to-top -->
+					</div>
+				</div><!-- /.center.site -->
+			</div><!-- /.footer__top -->
+			<div class="col-1-1 footer__bottom">
+				<div class="center site">
+					<div class="copyright">
+						<a href="/"><img src="/sites/all/themes/oakbay/images/parks-rec/logo-district.png" alt="District of Oak Bay"> &copy; 2020 Copyright District of Oak Bay.</a>
+					</div><!-- /.copyright -->
+				</div><!-- /.center.site -->			
+			</div><!-- /.footer__bottom -->
+		</div><!-- /#parks-footer -->
+	
+	</div>
+</div><!-- /.page.full -->
+<div class="hide">
+    <div id="cbox-content" class="wrapper">
+        <h1 style='margin-top:15px;'>Disclaimer</h1>
+        <p>Google Translate is provided as a free tool to enhance the usability of the District of Oak Bay website. As such, the District of Oak Bay is not responsible for Google Translate&trade;.&nbsp;</p>
+        <div id='google_translate_element'></div>
+    </div>    
+</div>  
+    <script src="https://www.oakbay.ca/sites/default/files/js/js_wKyFX46tVKJtPKN12qNjRfS4aubW4G2u7LK22vlDiKo.js"></script>
+<script src="https://www.oakbay.ca/sites/default/files/js/js_IE1tR0MJwQVLroCSS5Sy4yftAmfwZ4RgT9sBLauhG2o.js"></script>
+<script src="https://www.oakbay.ca/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CIntersectionObserverEntry%2CURL%2CObject.assign%2CArray.from%2CArray.prototype.includes%2CString.prototype.includes%2CElement.prototype.matches%2CPromise%2CPromise.prototype.finally"></script>
+<script src="https://unpkg.com/quicklink@1.0.0/dist/quicklink.umd.js"></script>
+<script src="https://www.oakbay.ca/sites/default/files/js/js_QBWH2SN9in5LgWPqWypqN8Sgy--5YV20ZnMsHm0iJk8.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"oakbay","theme_token":"Q3LJz-Jm8X4H2f2tUs48_wgBMxYjailjuLmALyUhGps","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/beautytips\/js\/jquery.bt.min.js":1,"sites\/all\/modules\/beautytips\/js\/beautytips.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"https:\/\/polyfill.io\/v3\/polyfill.min.js?features=IntersectionObserver%2CIntersectionObserverEntry%2CURL%2CObject.assign%2CArray.from%2CArray.prototype.includes%2CString.prototype.includes%2CElement.prototype.matches%2CPromise%2CPromise.prototype.finally":1,"https:\/\/unpkg.com\/quicklink@1.0.0\/dist\/quicklink.umd.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/quicklink\/js\/quicklink_init.js":1,"sites\/all\/themes\/oakbay\/js\/hoverintent.js":1,"sites\/all\/themes\/oakbay\/js\/colorbox.js":1,"sites\/all\/themes\/oakbay\/js\/cookie.js":1,"sites\/all\/themes\/oakbay\/js\/fontresize2.js":1,"sites\/all\/themes\/oakbay\/js\/parks-rec\/slick.min.js":1,"sites\/all\/themes\/oakbay\/js\/parks-rec\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/calendar_tooltips\/calendar_tooltips.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/oakbay\/css\/parks-rec\/styles.css":1,"sites\/all\/themes\/oakbay\/system.menus.css":1,"sites\/all\/themes\/oakbay\/css\/print.css":1}},"custom_search":{"form_target":"_self","solr":0},"beautytips":{"calendar-tooltips":{"fill":"#000000","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\u0026quot;lucida grande\u0026quot;,tahoma,verdana,arial,sans-serif","fontSize":"11px"},"width":"200px","shadow":"","cssClass":"calendar-beauty-tip","cssSelect":".calendar-calendar .mini-day-on a, .calendar-calendar .day a, .calendar-calendar .mini-day-on span, .calendar-calendar .day span","contentSelector":"$(this).next().html()","trigger":["mouseover","click"],"list":["fill","padding","strokeStyle","cornerRadius","cssStyles","width","shadow","cssClass","contentSelector","trigger"]}},"urlIsAjaxTrusted":{"\/parks-recreation":true},"quicklink":{"ignore_admin_paths":1,"ignore_ajax_links":1,"ignore_file_ext":1,"debug":0,"url_patterns_to_ignore":["user\/logout","#","\/admin","\/edit"]}});</script>
+     
+     <!--jq182javascript-->
+    <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script-->
+        <script src="/sites/all/themes/oakbay/js/jquery.smartbanner.js"></script>
+    <script type="text/javascript">
+      var android = location.href.match(/#android$/) || navigator.userAgent.match(/Android/i) != null;
+      if(android) {
+        $.smartbanner({
+            title: 'Recreation Oak Bay',
+            author: 'Upanup Studios',
+            icon: 'http://a5.mzstatic.com/us/r30/Purple1/v4/39/32/3e/39323e6b-0ee5-a831-7d92-91ffc1cec72e/icon175x175.png',
+            daysHidden: 0,
+            daysReminder: 0,
+            force: 'android'
+        });
+      }
+    </script>
+        <!--script>window.jQuery || document.write('<script src="https://oakbay.ca/sites/all/themes/oakbay/js/jquery.min.js"><\/script>')</script>
+    <script type="text/javascript">
+        var jQ = $.noConflict(true);
+    </script-->    
+
+    <!--script src="/sites/all/themes/oakbay/js/district/dropdown.js"></script>
+ 	  <script src="/sites/all/themes/oakbay/js/district/weather.js"></script>
+    <script src="/sites/all/themes/oakbay/js/district/cycle.js"></script>
+    <script src="/sites/all/themes/oakbay/js/district/fontresize2.js"></script>    
+    <script src="/sites/all/themes/oakbay/js/cookie.js"></script>
+    <script src="/sites/all/themes/oakbay/js/colorbox.js"></script>    
+    <script src="/sites/all/themes/oakbay/js/hoverintent.js"></script>   
+    <script src="/sites/all/themes/oakbay/js/district/scripts.js?v=3"></script>   
+    <script src="/sites/all/themes/oakbay/js/parks-rec/slick.min.js"></script>      
+    <script src="/sites/all/themes/oakbay/js/parks-rec/scripts.js"></script-->    
+    <script src="https://use.fontawesome.com/74ab3e214b.js"></script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+	<script>
+		jQuery(document).ready(function() {
+			fontPreference(jQuery);
+ 		});
+
+	</script>
+	<script type="text/javascript">var switchTo5x=false;</script>
+	<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+	<script type="text/javascript">stLight.options({publisher: "ed7b7159-2b4a-41ba-90fb-273795dd8cf4"});</script>
+	
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-36361109-1']); // OB account
+	  _gaq.push(['_trackPageview']);
+	  _gaq.push(['b._setAccount', 'UA-9705516-1']); // Rec account
+	  _gaq.push(['b._trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+	
+</body>
+</html>

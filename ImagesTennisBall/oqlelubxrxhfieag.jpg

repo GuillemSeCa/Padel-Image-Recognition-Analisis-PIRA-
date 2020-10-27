@@ -1,0 +1,197 @@
+﻿<!doctype html>
+<html lang="es">
+<head>
+<meta name="robots" content="noindex, nofollow">
+<title>Mediateca de EducaMadrid</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="La Mediateca de EducaMadrid ofrece vídeos, imágenes y archivos de audio subidos por sus usuarios para que puedas utilizarlos. Sin publicidad." /><meta name="keywords" content="mediateca, educamadrid, videos, imagenes, audio, streaming, sin publicidad" />
+<link rel="start" href="/" title="Página principal" />
+<link rel="index" href="/" title="Página principal" />
+<!--[if lt IE 9]><script type="text/javascript" src="/js/html5.js"></script><![endif]-->
+<link rel="stylesheet" type="text/css" href="/css/styles.css?v=20201021B" />
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/css/styles_ieLT9.css" /><![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>var projectPath = '/';var emCookiesLSSI = true</script>
+<script src="/js/common.js?v=20201021B"></script>
+<link href="https://mediateca.educa.madrid.org/arroba.jpg" rel="image_src" /><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@educamadrid" />
+<meta property="og:url" content="https://mediateca.educa.madrid.org/index.php" />
+<meta property="og:title" content="Mediateca de EducaMadrid" />
+<meta property="og:description" content="La Mediateca de EducaMadrid ofrece vídeos, imágenes y archivos de audio subidos por sus usuarios para que puedas utilizarlos. Sin publicidad." />
+<meta property="og:image" content="https://mediateca.educa.madrid.org/arroba.jpg" />
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analitica.educa.madrid.org/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '2']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+</head>
+<body class="home"><script>bodyTagLoaded();</script><noscript><img src="https://analitica.educa.madrid.org/matomo.php?idsite=2&amp;rec=1" width="1" height="1" alt="" style="display:none" /></noscript>
+	<div id="site">
+		<p id="skipNav"><a href="#content" class="sr-av">Saltar navegación</a></p>
+		<div id="header" class="autoclear">
+			<p class="logo"><a href="/"><span class="sr-av">Mediateca de EducaMadrid</span></a></p>			
+			<p class="links fs">
+									<a href="#login" class="action fs" onclick="login.toggle();return false">Iniciar sesión</a>
+							</p>
+									<div id="quick-browse">
+				<form id="qb" action="/resultados" method="GET" onsubmit="return validation.search()">
+				<div>
+					<a href="#" id="nav-toggler" class="js-required hide" onclick="toggleNav(this);return false" title="Ocultar menú"><img src="/images/icons/menu.gif" width="22" height="22" alt="Menú" /></a>
+					<label for="wb"><span class="sr-av">Palabra o frase: </span><input type="text" name="q" id="wb" title="Busca los t&eacute;rminos en todos los ficheros de la Mediateca" placeholder="Buscar&hellip;" value="" required /></label>
+					<input type="image" name="submit" id="wb_submit" src="/images/icons/search.gif" alt="Buscar" />					
+					<a href="/buscar" id="adv-search-link" class="fs" title="Búsqueda avanzada"><span class="sr-av">Búsqueda avanzada</span></a>
+					<a href="/help/search.html" title="Ayuda para la búsqueda" id="search-help-link" target="_blank"><span class="sr-av">Ayuda (en ventana nueva)</span></a> 
+				</div>
+				</form>
+				<div id="change-mode">		
+					<form id="mediatecaModeForm" action="/index.php" method="POST">
+						<div>
+																					<input type="hidden" name="mediatecaMode" value="normal" />
+							<input type="image" class="educational-off" title="Activar el modo educativo (sólo contenidos educativos)" alt="Mostrando todos los contenidos. Haz clic para mostrar sólo contenidos educativos." src="/images/icons/search_all.png" />
+													</div>
+					</form>			
+				</div>				
+			</div>		
+		</div>
+		<div id="wrapper" class="autoclear">
+			<div id="sidebar">
+	<nav id="nav">
+		<ul>			
+			<li class="home"><a href="/" class="current">Inicio</a></li>
+			<li class="last-contents"><a href="/resultados.php?ultimos=1">&Uacute;ltimos contenidos</a></li>			
+				
+			
+			<li class="last-videos"><a href="/resultados.php?ultimos=1&amp;Type=1&amp;filters=false">Vídeos</a></li><li class="last-images"><a href="/resultados.php?ultimos=1&amp;Type=2&amp;filters=false">Imágenes</a></li><li class="last-audios"><a href="/resultados.php?ultimos=1&amp;Type=3&amp;filters=false">Audios</a></li><li class="d"><a href="/resultados.php?ultimos=1&amp;Type=8&amp;filters=false">Diseños 3D</a></li><li class="s"><a href="/resultados.php?ultimos=1&amp;Type=9&amp;filters=false">Scratch</a></li><li class="epub"><a href="/resultados.php?ultimos=1&amp;Type=11&amp;filters=false">Epub</a></li><li class="rutas"><a href="/resultados.php?ultimos=1&amp;Type=13&amp;filters=false">Rutas</a></li><li class="others"><a href="/resultados.php?ultimos=1&amp;Type=12&amp;filters=false">Documentos</a></li><li class="mapasmentales"><a href="/resultados.php?ultimos=1&amp;Type=14&amp;filters=false">Mapas mentales</a></li><li class="last-album"><a href="/resultados.php?ultimos=1&amp;Type=15&amp;filters=false">Álbumes</a></li><li class="last-codigos"><a href="/resultados.php?ultimos=1&amp;Type=16&amp;filters=false">Códigos</a></li><li class="last-videosinteractivos"><a href="/resultados.php?ultimos=1&amp;Type=17&amp;filters=false">Vídeos interactivos</a></li>		
+			<li class="lists"><a href="/resultados.php?ultimos=1&amp;Type=4&amp;filters=false">Listas</a></li>
+			<li class="cen"><a href="/centros">Centros</a></li>
+					</ul>
+	</nav>		<div class="block">
+		<p>Inicia sesión para aportar contenidos, crear listas de reproducción...</p>
+		<p><a href="#login" class="action" onclick="login.toggle();return false">Iniciar sesión</a></p>					
+	</div>
+	</div>			<div id="content-wrapper">
+						<div id="content" class="autoclear">
+			<h1 class="sr-av">Mediateca de EducaMadrid</h1>
+<div id="em" class="autoclear">
+	<p><a href="/resultados.php?ultimos=1" class="action">Novedades</a></p>
+	<div class="col col-1">
+		<figure>
+			<div id="player-w">										
+                   		<div id="player510" style="width:467px;height:263px">
+                      	<p style="line-height:263px" class="js-hidden">Activa JavaScript para disfrutar de los vídeos de la Mediateca.</p>
+                    </div><script>/*<![CDATA[*/function isFullScreen() { try { return window.location.href.endsWith('/fs'); } catch(e) { return false; } }function checkVideoPlayerHeight(h){
+    									var n = h;
+									    if (typeof(window.innerHeight)!='undefined') {
+												
+												n = window.innerHeight;
+												if (n==0) n = h;
+									            document.getElementById("player510").style.height=n+"px";
+									        
+									    }
+									    return n;
+									}function enableVideoPlayer809(video,image,h,w){
+												if (isFullScreen()) h = checkVideoPlayerHeight(h);
+												jwplayer.key = '+/mwk2iwJwNhlas+LxdA65rl+x0ObQIk3mxnG2uLxTU=';
+												jwplayer("player510").setup({sources: [{	
+											file: "https://mediateca.educa.madrid.org/streaming.php?id=4rt5onybhrecj15s",
+											label: "480p" , type: "mp4", provider: "http", startparam: "start"
+											} ,{	
+											file: "https://mediateca.educa.madrid.org/streaming.php?id=4rt5onybhrecj15s&r=org",
+											label: "Original" , type: "mp4", provider: "http", startparam: "start","default": "true"	} 	],																				
+									image: image, tracks: [{
+							  	file:'https://mediateca.educa.madrid.org/streaming.php?id=4rt5onybhrecj15s&vtt=thumbnails&ext=.vtt',								    
+							    kind:'thumbnails'
+								  }	],logo: {
+										file: "https://mediateca.educa.madrid.org/images/player/educamadrid.png",
+										link: "https://mediateca.educa.madrid.org/video/4rt5onybhrecj15s",
+										hide: true,
+										position: "top-left"
+									}  ,									
+									abouttext: "Mediateca EducaMadrid",aboutlink: "https://mediateca.educa.madrid.org/video/4rt5onybhrecj15s",height: h,width: w,	
+					stretching : stretching.check(),				             	
+									sharing: {
+										heading: "Comparte este v\u00EDdeo",
+										code: encodeURI('<iframe src="https://mediateca.educa.madrid.org/video/4rt5onybhrecj15s/fs" width="420" height="315" frameborder="0" scrolling="no" style="border:0;overflow:hidden" allowfullscreen></iframe>'),
+										link: 'https://mediateca.educa.madrid.org/video/4rt5onybhrecj15s',
+										sites: ['facebook','twitter','email']
+									},
+									playbackRateControls:[0.5,1,1.50,2,4],
+									volume: 50,floating: { 'dismissible': true },
+									timeSliderAbove: true,
+									cast:{ }
+								});	
+								jwplayer().onComplete(function(){
+									//location.href='https://mediateca.educa.madrid.org';
+									});														
+								jwplayer().onPlay(function(){
+									if(typeof(hasBeenPlayed)=='undefined') {												
+										if(isFullScreen() && typeof(window.innerHeight)!='undefined') $("#player510").css("height",window.innerHeight+"px");
+										
+										hasBeenPlayed = true;										
+										$.ajax({
+					              type: 'POST',
+					              url: '/ajax.php',
+					              data: { visitas: '1' , id: '4rt5onybhrecj15s' }					              
+					              });										
+									}
+								});
+							}loadScript("https://cdn.jwplayer.com/libraries/6zEnM8sO.js","enableVideoPlayer809('https://mediateca.educa.madrid.org/streaming.php?id=4rt5onybhrecj15s','https://mediateca.educa.madrid.org/imagen.php?id=4rt5onybhrecj15s&type=1&m=0','263','467')");
+                        /*]]>*/</script></div>			<figcaption>
+				<a href="/video/4rt5onybhrecj15s">Operaciones combinadas</a>, subido por <a href="/usuario/scantalapiedra">Susana C.</a> 
+			</figcaption>
+		</figure>
+	</div>
+	<div class="col col-2">
+		<ul id="last-of-each"><li class='type-1'><span></span><span class="educational"><em class="sr-av">Contenido educativo</em></span><a href='resultados.php?ultimos=1&amp;Type=1' title='Vídeos recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=18efstssigyta8af&amp;m=1&amp;type=1" alt="Propiedad distributiva de la multiplicación" style="position: absolute;  width:auto; height:125px; left:-52px;clip: rect(0, 199px, 124px, 53px); " class="--thumbnail"  /></a></li><li class='type-2'><span></span><a href='resultados.php?ultimos=1&amp;Type=2' title='Imágenes recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=m7qabfubtcoav2o7&amp;m=1&amp;type=2" alt="Calendario Escolar Curso 202/2021" style="position: absolute;  width:auto; height:125px; left:-52px;clip: rect(0, 199px, 124px, 53px); " class="--thumbnail"  /></a></li><li class='type-3'><span></span><span class="educational"><em class="sr-av">Contenido educativo</em></span><a href='resultados.php?ultimos=1&amp;Type=3' title='Audios recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=r7smhyzrlsf1t8w9&amp;m=1&amp;type=3" alt="zambomba" style="position: absolute;  width:auto; height:125px; left:-76px;clip: rect(0, 223px, 124px, 77px); " class="--thumbnail"  /></a></li><li class='type-8'><span></span><span class="educational"><em class="sr-av">Contenido educativo</em></span><a href='resultados.php?ultimos=1&amp;Type=8' title='Diseños 3D recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=muqq47qpikprpu5k&amp;m=1&amp;type=8" alt="Carcasa con el lector/grabador DVD introducido" style="position: absolute;  width:auto; height:125px; left:-10px;clip: rect(0, 157px, 124px, 11px); " class="--thumbnail"  /></a></li><li class='type-9'><span></span><a href='resultados.php?ultimos=1&amp;Type=9' title='Scratch recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=f8ynwvyy7ptcb85r&amp;m=1&amp;type=9" alt="Símbolos eléctricos" style="position: absolute;  width:auto; height:125px; left:-3px;clip: rect(0, 150px, 124px, 4px); " class="--thumbnail"  /></a></li><li class='type-4'><span></span><a href='resultados.php?ultimos=1&amp;Type=4' title='Listas recientes'><img src="https://mediateca.educa.madrid.org/imagen.php?id=Lkbonv4f4u63x3qh8&amp;m=1&amp;type=4" alt="Curso Moodle C34" style="position: absolute;  width:auto; height:125px; left:-10px;clip: rect(0, 157px, 124px, 11px); " class="--thumbnail"  /></a></li></ul>	</div>
+</div>
+<section class="files-group" style="margin-bottom:0">
+	<header class="sr-av"><h2>Al azar en la Mediateca&hellip;</h2></header>
+	<div class='type-contents type-1'><h3>Vídeo</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=1" title="Vídeo" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-1-list"><li class="file video-file pos-1 autoclear"  id="li-ld3yixt94cujqraz"><a href="/video/ld3yixt94cujqraz"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=ld3yixt94cujqraz&amp;m=1&amp;type=1" alt="FIL 1BACH - 12 La gnoseología en la antigua Grecia"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">FIL 1BACH - 12 La gnoseología en la antigua Grecia </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/cprestel/videos" class="author">César P.</a> </span><span class="size truncate"> 05&prime; 08&Prime;</span><span class="sr-av"> - </span><span class="date">hace un dia</span><span class="sep"> - </span><span class="file-lang"><strong class="sr-av">Idioma:</strong> <span class="lang"><img src="/images/lang/es.gif" width="16" height="11" alt="español (o castellano)" title="Idioma: español (o castellano)" /> </span></span><span class="sep"> - </span><span class="file-views"><strong>1</strong> visualizaciones</span></div></li><li class="file video-file pos-2 autoclear"  id="li-pir3sjxaspztx3vk"><a href="/video/pir3sjxaspztx3vk"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=pir3sjxaspztx3vk&amp;m=1&amp;type=1" alt="Nacimiento de la mariposa brassicae."   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Nacimiento de la mariposa brassicae. </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/centro/cp.ciudaddezaragoz.madrid/videos" class="author"> Cp ciudaddezaragoz madrid</a> </span><span class="size truncate"> 08&prime; 46&Prime;</span><span class="sr-av"> - </span><span class="date">hace 4 dias</span><span class="sep"> - </span><span class="file-views"><strong>5</strong> visualizaciones</span></div></li><li class="file video-file pos-3 autoclear"  id="li-1ireq1844jqc63kk"><a href="/video/1ireq1844jqc63kk"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=1ireq1844jqc63kk&amp;m=1&amp;type=1" alt="2ºM TEMA 3 15-10-20 VÍDEO DE CLASE. ECUACIÓN MATRICIAL 2"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">2ºM TEMA 3 15-10-20 VÍDEO DE CLASE. ECUACIÓN MATRICIAL 2 </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/jballestin/videos" class="author">Jesús A. B.</a> </span><span class="size truncate"> 07&prime; 09&Prime;</span><span class="sr-av"> - </span><span class="date">hace una semana</span><span class="sep"> - </span><span class="file-views"><strong>12</strong> visualizaciones</span></div></li><li class="file video-file pos-4 autoclear"  id="li-kuirytprnagej4ti"><a href="/video/kuirytprnagej4ti"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=kuirytprnagej4ti&amp;m=1&amp;type=1" alt="Potencias"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Potencias </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/scantalapiedra/videos" class="author">Susana C.</a> </span><span class="size truncate"> 06&prime; 21&Prime;</span><span class="sr-av"> - </span><span class="date">hace una semana</span><span class="sep"> - </span><span class="file-lang"><strong class="sr-av">Idioma:</strong> <span class="lang"><img src="/images/lang/es.gif" width="16" height="11" alt="español (o castellano)" title="Idioma: español (o castellano)" /> </span></span><span class="sep"> - </span><span class="file-views"><strong>30</strong> visualizaciones</span></div></li></ul></div></div><div class='type-contents type-2'><h3>Imagen</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=2" title="Imagen" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-2-list"><li class="file image-file pos-1 autoclear"  id="li-mhipmhyoscd77u6o"><a href="/imagen/mhipmhyoscd77u6o"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=mhipmhyoscd77u6o&amp;m=1&amp;type=2" alt="blender XZTAR"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">blender XZTAR </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/francisco.ortegamartinez/imagenes" class="author">Francisco O.</a> </span><span class="size truncate">43.73 KBytes</span><span class="sr-av"> - </span><span class="date">hace 2 semanas</span><span class="sep"> - </span><span class="file-views"><strong>11</strong> visualizaciones</span></div></li><li class="file image-file pos-2 autoclear"  id="li-ukmz8nuwur2tntko"><a href="/imagen/ukmz8nuwur2tntko"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=ukmz8nuwur2tntko&amp;m=1&amp;type=2" alt="boceto 06"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">boceto 06 </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/egarciaoliveroshedilla/imagenes" class="author">Elena G.</a> </span><span class="size truncate">1.05 MBytes</span><span class="sr-av"> - </span><span class="date">hace 4 semanas</span><span class="sep"> - </span><span class="file-views"><strong>49</strong> visualizaciones</span></div></li><li class="file image-file pos-3 autoclear"  id="li-zcg44hdaue42jvnd"><a href="/imagen/zcg44hdaue42jvnd"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=zcg44hdaue42jvnd&amp;m=1&amp;type=2" alt="LapbookRoc"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">LapbookRoc </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/cpcelamadrid.rubio/imagenes" class="author">Lucia R.</a> </span><span class="size truncate">853.67 KBytes</span><span class="sr-av"> - </span><span class="date">hace 4 meses</span><span class="sep"> - </span><span class="file-views"><strong>48</strong> visualizaciones</span></div></li><li class="file image-file pos-4 autoclear"  id="li-4saufljg8qs4fcne"><a href="/imagen/4saufljg8qs4fcne"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=4saufljg8qs4fcne&amp;m=1&amp;type=2" alt="Relojes 1ºB 1"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Relojes 1ºB 1 </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/natalia.benitez1/imagenes" class="author">Natalia B.</a> </span><span class="size truncate">633.89 KBytes</span><span class="sr-av"> - </span><span class="date">hace 5 meses</span><span class="sep"> - </span><span class="file-views"><strong>437</strong> visualizaciones</span></div></li></ul></div></div><div class='type-contents type-3'><h3>Audio</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=3" title="Audio" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-3-list"><li class="file audio-file pos-1 autoclear"  id="li-1tjjcp9klm87kj99"><a href="/audio/1tjjcp9klm87kj99"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=1tjjcp9klm87kj99&amp;m=1&amp;type=3" alt="Doriforo"   style="position: absolute;  width:auto; height:110px; left:-22px;clip: rect(0, 242px, 109px, 23px); " class="--thumbnail"   /></div><h2 class="truncate">Doriforo </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/rodrigo.hernandez/audios" class="author">Rodrigo H.</a> </span><span class="size truncate"> 07&prime; 02&Prime;</span><span class="sr-av"> - </span><span class="date">hace una semana</span><span class="sep"> - </span><span class="file-lang"><strong class="sr-av">Idioma:</strong> <span class="lang"><img src="/images/lang/es.gif" width="16" height="11" alt="español (o castellano)" title="Idioma: español (o castellano)" /> </span></span><span class="sep"> - </span><span class="file-views">Escuchado <strong>9</strong> veces</span></div></li><li class="file audio-file pos-2 autoclear"  id="li-j2d1oqgjuu7eouvq"><a href="/audio/j2d1oqgjuu7eouvq"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=j2d1oqgjuu7eouvq&amp;m=1&amp;type=3" alt="unit 8"   style="position: absolute;  width:auto; height:110px; left:-22px;clip: rect(0, 242px, 109px, 23px); " class="--thumbnail"   /></div><h2 class="truncate">unit 8 </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/miriam.yaguegarde/audios" class="author">Miriam Y.</a> </span><span class="size truncate"> 00&prime; 31&Prime;</span><span class="sr-av"> - </span><span class="date">hace 4 meses</span><span class="sep"> - </span><span class="file-views">Escuchado <strong>3</strong> veces</span></div></li><li class="file audio-file pos-3 autoclear"  id="li-trjo6e2on1djrl94"><a href="/audio/trjo6e2on1djrl94"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=trjo6e2on1djrl94&amp;m=1&amp;type=3" alt="AB_p91_act3"   style="position: absolute;  width:auto; height:110px; left:-22px;clip: rect(0, 242px, 109px, 23px); " class="--thumbnail"   /></div><h2 class="truncate">AB_p91_act3 </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/gema.hernandez/audios" class="author">Gema H.</a> </span><span class="size truncate"> 01&prime; 36&Prime;</span><span class="sr-av"> - </span><span class="date">hace 4 meses</span><span class="sep"> - </span><span class="file-views">Escuchado <strong>29</strong> veces</span></div></li><li class="file audio-file pos-4 autoclear"  id="li-2pe3op9w3gswspnn"><a href="/audio/2pe3op9w3gswspnn"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=2pe3op9w3gswspnn&amp;m=1&amp;type=3" alt="C3"   style="position: absolute;  width:auto; height:110px; left:-22px;clip: rect(0, 242px, 109px, 23px); " class="--thumbnail"   /></div><h2 class="truncate">C3 </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/mpaezplanas/audios" class="author">María Del Carmen P.</a> </span><span class="size truncate"> 00&prime; 51&Prime;</span><span class="sr-av"> - </span><span class="date">hace 5 meses</span><span class="sep"> - </span><span class="file-views">Escuchado <strong>116</strong> veces</span></div></li></ul></div></div><div class='type-contents type-8'><h3>Diseño 3D</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=8" title="Diseño 3D" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-8-list"><li class="file stl-file pos-1 autoclear"  id="li-sl5pb7gn9ww1oxxr"><a href="/stl/sl5pb7gn9ww1oxxr"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=sl5pb7gn9ww1oxxr&amp;m=1&amp;type=8" alt="León-Esfinge"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-38px;clip: rect(39px, 220px, 148px, 0); " class="--thumbnail"   /></div><h2 class="truncate">León-Esfinge </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/dmachoperez/stl" class="author">Daniel M.</a> </span><span class="size truncate">17.43 MBytes</span><span class="sr-av"> - </span><span class="date">hace 9 meses</span><span class="sep"> - </span><span class="file-views"><strong>620</strong> visualizaciones</span></div></li><li class="file stl-file pos-2 autoclear"  id="li-5cbplv535yu1w6db"><a href="/stl/5cbplv535yu1w6db"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=5cbplv535yu1w6db&amp;m=1&amp;type=8" alt="Cap_l"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-38px;clip: rect(39px, 220px, 148px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Cap_l </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/mrabazaspascua/stl" class="author">María Francisca R.</a> </span><span class="size truncate">12.38 KBytes</span><span class="sr-av"> - </span><span class="date">hace 10 meses</span><span class="sep"> - </span><span class="file-views"><strong>164</strong> visualizaciones</span></div></li><li class="file stl-file pos-3 autoclear"  id="li-3v75mjkscrujmoaq"><a href="/stl/3v75mjkscrujmoaq"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=3v75mjkscrujmoaq&amp;m=1&amp;type=8" alt="Estrella derivada de Cubo y Octaedro"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-38px;clip: rect(39px, 220px, 148px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Estrella derivada de Cubo y Octaedro </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/jgilpalacios/stl" class="author">Juan Ignacio G.</a> </span><span class="size truncate">6.38 KBytes</span><span class="sr-av"> - </span><span class="date">hace un a&ntilde;o</span><span class="sep"> - </span><span class="file-views"><strong>663</strong> visualizaciones</span></div></li><li class="file stl-file pos-4 autoclear"  id="li-7eq8heorw2z1jq3t"><a href="/stl/7eq8heorw2z1jq3t"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=7eq8heorw2z1jq3t&amp;m=1&amp;type=8" alt="Balanzacín piezas sueltas"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-38px;clip: rect(39px, 220px, 148px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Balanzacín piezas sueltas </h2></a><div class="file-details"><span class="by">subido por <a href="/centro/cp.santodomingo.algete/stl" class="author"> Cp santodomingo algete</a> </span><span class="size truncate">214.24 KBytes</span><span class="sr-av"> - </span><span class="date">hace 5 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>1090</strong> visualizaciones</span></div></li></ul></div></div><div class='type-contents type-9'><h3>Scratch</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=9" title="Scratch" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-9-list"><li class="file scratch-file pos-1 autoclear"  id="li-kcxkwvpm9nqntm94"><a href="/scratch/kcxkwvpm9nqntm94"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=kcxkwvpm9nqntm94&amp;m=1&amp;type=9" alt="El colorido pin pong"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-60px;clip: rect(61px, 220px, 170px, 0); " class="--thumbnail"   /></div><h2 class="truncate">El colorido pin pong </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/alejandro.munozsanchez/scratch" class="author">Alejandro M.</a> </span><span class="size truncate">226.69 KBytes</span><span class="sr-av"> - </span><span class="date">hace un a&ntilde;o</span><span class="sep"> - </span><span class="file-views"><strong>533</strong> visualizaciones</span></div></li><li class="file scratch-file pos-2 autoclear"  id="li-9cbprr8hatcorust"><a href="/scratch/9cbprr8hatcorust"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=9cbprr8hatcorust&amp;m=1&amp;type=9" alt="Aprende de los magos Miguel y Sofía :) ."   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Aprende de los magos Miguel y Sofía :) . </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/miguel.oliveri/scratch" class="author">Miguel O.</a> </span><span class="size truncate">1.43 MBytes</span><span class="sr-av"> - </span><span class="date">hace 2 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>634</strong> visualizaciones</span></div></li><li class="file scratch-file pos-3 autoclear"  id="li-1im8rvv4ugj65if6"><a href="/scratch/1im8rvv4ugj65if6"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=1im8rvv4ugj65if6&amp;m=1&amp;type=9" alt="Varias historias con Scratch"   style="z-index: 0; position: absolute; width:220px; height:auto;top:-28px;clip: rect(29px, 220px, 138px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Varias historias con Scratch </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/josemaria.valerozayas/scratch" class="author">José María V.</a> </span><span class="size truncate">2.92 MBytes</span><span class="sr-av"> - </span><span class="date">hace 2 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>911</strong> visualizaciones</span></div></li><li class="file scratch-file pos-4 autoclear"  id="li-s1xk7ys439pa1icq"><a href="/scratch/s1xk7ys439pa1icq"><div class="thumbnail-wrapper"><span class="educational"></span><img src="https://mediateca.educa.madrid.org/imagen.php?id=s1xk7ys439pa1icq&amp;m=1&amp;type=9" alt="Scratch - Mago preguntas y respuestas "   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Scratch - Mago preguntas y respuestas  </h2></a><div class="file-details"><span class="educational sr-av">Contenido educativo.</span> <span class="by">subido por <a href="/usuario/paloma.garciadeblas/scratch" class="author">Paloma G.</a> </span><span class="size truncate">611.68 KBytes</span><span class="sr-av"> - </span><span class="date">hace 2 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>775</strong> visualizaciones</span></div></li></ul></div></div><div class='type-contents type-4'><h3>Lista</h3><p class="type-contents-link"><a href="resultados.php?ultimos=1&amp;Type=4" title="Lista" class="action">Ver más</a></p><div><ul class="files autoclear" id="type-4-list"><li class="list list-file pos-1 autoclear"  id="li-puvvefq5ssljuzer"><a href="/lista/puvvefq5ssljuzer"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=puvvefq5ssljuzer&amp;m=1&amp;type=4" alt="Actualizaciones max 9"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Actualizaciones max 9 </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/francisco.ortegamartinez/listas" class="author">Francisco O.</a> </span><span class="size truncate">3 imágenes</span><span class="sr-av"> - </span><span class="date">hace 2 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>317</strong> visualizaciones</span></div></li><li class="list list-file pos-2 autoclear"  id="li-nva1posn87lv1xo6"><a href="/lista/nva1posn87lv1xo6"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=nva1posn87lv1xo6&amp;m=1&amp;type=4" alt="NAVIDAD 17-18"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">NAVIDAD 17-18 </h2></a><div class="file-details"><span class="by">subido por <a href="/centro/cp.gonzalodeberceo.madrid/listas" class="author"> Cp gonzalodeberceo madrid</a> </span><span class="size truncate">29 imágenes</span><span class="sr-av"> - </span><span class="date">hace 3 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>431</strong> visualizaciones</span></div></li><li class="list list-file pos-3 autoclear"  id="li-7nb26be9jlzy4nes"><a href="/lista/7nb26be9jlzy4nes"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=7nb26be9jlzy4nes&amp;m=1&amp;type=4" alt="2017_12_18_DECORACION PUERTAS NAVIDAD"   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">2017_12_18_DECORACION PUERTAS NAVIDAD </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/tic.cp.fernandodelosrios.lasrozas/listas" class="author"> Tic cp fernandodelosrios lasrozas</a> </span><span class="size truncate">25 imágenes</span><span class="sr-av"> - </span><span class="date">hace 3 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>2684</strong> visualizaciones</span></div></li><li class="list list-file pos-4 autoclear"  id="li-7to7nfywdcvlz7ve"><a href="/lista/7to7nfywdcvlz7ve"><div class="thumbnail-wrapper"><img src="https://mediateca.educa.madrid.org/imagen.php?id=7to7nfywdcvlz7ve&amp;m=1&amp;type=4" alt="Carnaval 2017_Decorando pasillos... "   style="z-index: 0; position: absolute; width:220px; height:auto;top:0px;clip: rect(0px, 220px, 110px, 0); " class="--thumbnail"   /></div><h2 class="truncate">Carnaval 2017_Decorando pasillos...  </h2></a><div class="file-details"><span class="by">subido por <a href="/usuario/tic.cp.fernandodelosrios.lasrozas/listas" class="author"> Tic cp fernandodelosrios lasrozas</a> </span><span class="size truncate">25 imágenes</span><span class="sr-av"> - </span><span class="date">hace 3 a&ntilde;os</span><span class="sep"> - </span><span class="file-views"><strong>841</strong> visualizaciones</span></div></li></ul></div></div>	<script>
+		$(".type-contents h3").click(function(){
+			window.location = $("A",$(this).next("P")).attr("href");    
+		}).css("cursor","pointer");
+	</script>
+	<p><a href="#wb" onclick="window.scroll(0,0);$('#wb').focus();return false">Usa el buscador</a> para encontrar más contenidos.</p>
+</section>
+		</div><!-- /#content -->
+		<hr />
+		<div id="footer">
+			<p><span class="fs">2020 - </span><strong><a href="http://www.educa.madrid.org" rel="external">EducaMadrid</a>. </strong>Consejería de Educación y Juventud.<span class="fs"> <a href="http://www.madrid.org">Comunidad de Madrid</a>.</span></p>
+			<ul>
+				<li><a href="/novedades">Novedades</a></li>
+				<li><a href="http://ayuda.educa.madrid.org/index.php/Mediateca" target="_blank">Ayuda<span class="fs"> (ventana nueva)</span></a></li>
+				<li><a href="/accesibilidad">Accesibilidad</a></li>
+				<li><a href="/mapa-web">Mapa<span class="hr-only"> web</span></a></li>
+				<li><a href="/aviso-legal">Aviso<span class="hr-only"> legal</span></a></li>
+				<li><a href="/contacto" rel="nofollow" id="contact-link">Contacto</a></li>
+			</ul>
+		</div>		
+		</div><!-- /#content-wrapper -->
+	</div><!-- /#wrapper -->
+</div>
+<div id="login" class="js-hidden">
+	<div id="login-w">
+		<form action='https://mediateca.educa.madrid.org/' method='post' id="login-form">
+			<p><label for="nombreuser"><span>Usuario: </span><input type='text' size='15' maxlength='100' name='user' id='nombreuser' /></label></p>
+			<p><label for="passuser"><span>Contrase&ntilde;a: </span><input type='password' size='15' maxlength='50' name='pass' id="passuser" /></label></p>
+			<p class="submit">
+				<input type="submit" name="enter" id="enter" value="Acceder" />
+				<input type="button" name="doNotEnter" id="doNotEnter" value="Cancelar" onclick="login.toggle()" class="js-required" />
+			</p>
+		</form>
+		<p id="who"><a href="http://www.educa2.madrid.org/educamadrid/" target="_blank">Plataforma Tecnológica EducaMadrid</a></p>
+	</div>
+</div>
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-2007269-1";if (typeof(urchinTracker)!="undefined") urchinTracker();</script><script>domIsLoaded()</script></body></html>
